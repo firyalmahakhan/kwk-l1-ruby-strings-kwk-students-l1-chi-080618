@@ -18,7 +18,7 @@ puts "Who is the party host?"
 
 host = gets.chomp
 
-puts Dear #{party}
+puts Dear #{name}
 
 puts "You are cordially invited to the #{party_name} on #{date} on #{time}. Please RSVP no later than October 30.
 
